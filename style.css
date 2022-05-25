@@ -49,7 +49,7 @@ h1 {
     background: transparent;
 }
 
-#layer-7 {
+#layer-1 {
     top: 0;
     left: 0;
     width: 600px;
@@ -57,7 +57,7 @@ h1 {
     border-color: #FF0000;
 }
 
-#layer-6 {
+#layer-2 {
     top: 20px;
     left: 20px;
     width: 560px;
@@ -65,7 +65,7 @@ h1 {
     border-color: rgb(255,165,0);
 }
 
-#layer-5 {
+#layer-3 {
     top: 40px;
     left: 40px;
     width: 520px;
@@ -81,7 +81,7 @@ h1 {
     border-color: #008000;
 }
 
-#layer-3 {
+#layer-5 {
     top: 80px;
     left: 80px;
     width: 440px;
@@ -89,7 +89,7 @@ h1 {
     border-color: rgb(0,0,255);
 }
 
-#layer-2 {
+#layer-6 {
     top: 100px;
     left: 100px;
     width: 400px;
@@ -97,7 +97,7 @@ h1 {
     border-color: #4B0082;
 }
 
-#layer-1 {
+#layer-7 {
     top: 120px;
     left: 120px;
     width: 360px;
